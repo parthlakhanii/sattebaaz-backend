@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/84ae44fd-d333-4fc5-bd24-122adfe0ff5e/resourceGroups/news-aggregator-service/providers/Microsoft.Web/sites/News-Aggregator-Service",
+    "appService.deploySubpath": "."
+}
